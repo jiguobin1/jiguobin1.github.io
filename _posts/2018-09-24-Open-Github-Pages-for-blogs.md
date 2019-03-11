@@ -11,7 +11,7 @@ tags:
 ---
 
 # Organization
-_config.yml ：全局配置文件
+_config.yml ：好的撒扩付军军军军军军军军军军军军军军军军军
 
 posts :放文章的文件夹
 
